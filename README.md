@@ -1,4 +1,4 @@
 Bluetooth
 =========
 
-Schematic and board layout of an bletooth audio module
+Schematic and board layout of a bluetooth audio module for headphone
